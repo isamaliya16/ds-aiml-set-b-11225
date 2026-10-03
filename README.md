@@ -173,7 +173,7 @@ Running the full notebook produces:
 
 - 📉 **Figures** — distance histogram, ANN learning curves, confusion matrices (Logistic Regression & ANN)
 - 📄 **CSV reports** — statistical summaries, preprocessing audit, per-record predictions, cluster profiles, k-selection scores, model comparison
-- 🧠 **Saved model artifacts** — `preprocessing.joblib` (imputer/encoder/scaler) and `ann_model.keras`
+- 🧠 **Saved model artifacts** — `ann_model.keras`
 
 ## ♻️ Reproducibility
 
@@ -183,7 +183,7 @@ Running the full notebook produces:
 
 ## 👤 Author
 
-**Student:** _your name_ · **Student ID:** _your ID_ · **Exam Set:** B — Delivery Risk
+**Student:** Ayush Isamaliya  · **Student ID:** 11225 · **Exam Set:** B — Delivery Risk
 
 ---
 
